@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>注册</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+	<link href="/static/base.css" rel="stylesheet">
+	<!-- Bootstrap -->
+	<link href="/static/css/bootstrap.css" rel="stylesheet">
+	<link href="/static/css/bootstrap-responsive.css" rel="stylesheet">
+	<script src="/static/js/jquery.js"></script>
+	<script src="/static/js/bootstrap.min.js"></script>
+	<script type="text/javascript">
+    $(document).ready(function() {
+        $("#x_submit").on("click", function() {
+            $username = $("#username");
+            $password = $("#password");
+            $telephone = $("#telephone");
+
+            if ($.trim($username.val()).length == 0) {
+                $("#x_local_errors").removeClass("x_display");
+                $("#x_local_errors").html("<h2>用户名为空</h2>")
+                return;
+            }
+            if ($.trim($telephone.val()).length == 0) {
+                $("#x_local_errors").removeClass("x_display");
+                $("#x_local_errors").html("<h2>手机号码为空</h2>")
+                return;
+            } else {
+                re = /^1[0-9]{10}$/
+                if (!re.test($.trim($telephone.val()))) {
+                    $("#x_local_errors").removeClass("x_display");
+                    $("#x_local_errors").html("<h2>手机号码不正确</h2>")
+                    return;
+                }
+            }
+            if ($.trim($password.val()).length == 0) {
+                $("#x_local_errors").removeClass("x_display");
+                $("#x_local_errors").html("<h2>密码为空</h2>")
+                return;
+            }
+
+            url = window.location.href;
+            query = url.split("?")[1]
+            wx_id = query.split("=")[1]
+            $("#wx_id").val(wx_id);
+            $("#x_register_form").submit();
+
+            return false;
+        });
+    });
+    </script>
+	<!--
+	<script type="text/javascript">
+		var winHeight;
+		var winWidth;
+
+		if (window.innerWidth)
+			winWidth = window.innerWidth;
+		else if ((document.body) && (document.body.clientWidth))
+			winWidth = document.body.clientWidth;
+
+		if (window.innerHeight)
+			winHeight = window.innerHeight;
+		else if ((document.body) && (document.body.clientHeight))
+			winWidth = document.body.clientHeight;
+
+		if (document.documentElement && document.documentElement.clientHeight &&
+			document.documentElement.clientWidth) {
+			winHeight = document.documentElement.clientHeight;
+			winHeight = document.documentElement.clientHeight;
+		}
+		window.onload = function() {
+			var obj = document.body.getElementsByTagName("img");
+			for (var i=0; i<obj.length; i++) {
+				var width = obj[i].width;
+				if (width > winWidth)
+					obj[i].width = winWidth;
+			}
+		}
+	</script>
+	-->
+    <style type="text/css">
+    .error_list {
+        font-weight: bold;
+        color: red;    
+    }
+    .form_control_wrapper {
+        font-size: larger;    
+    }
+
+    .form_control_wrapper div {
+        padding-top: 20px;    
+    }
+
+    .form_control_wrapper input {
+        width: 190px;
+        font-size: 20px;
+        height: 30px;
+        padding: 0px;
+    }
+
+    .x_btn {
+        width: 100px;    
+        height: 34px;
+        font-size: 20px;
+    }
+
+    .x_display {
+        display: none;    
+    }
+
+    .x_c_submit {
+        width: 100%;    
+        text-align: center;
+    }
+
+    #x_submit {
+        width: 150px;
+        height: 30px;
+        font-size: 20px;
+    } 
+    </style>
+</head>
+<body>
+	<h1>用户注册</h1> <hr />
+    {% if errors %}
+    <div class="error_list alert">
+    <h2> {{ errors }} </h2>
+    </div>
+    {% end %}
+    <div id="x_local_errors" class="error_list alert x_display">
+    </div>
+    <div class="form_control_wrapper">
+        <form action="/register/" method="post" name="register" id="x_register_form">
+            <div>用户昵称：<input type="text" id="username" name="username" value=""/></div>
+            <div>手机号码：<input type="tel" id="telephone" name="telephone" value=""/></div>
+            <div>用户密码：<input type="password" id="password" name="password" value=""/></div>
+            <input type="hidden" value="" name="wx_id" id="wx_id" />
+            <div class="x_c_submit"><input type="submit" value="注册" id="x_submit" class="x_btn" />
+            <!-- <div><button type="button" class="x_btn" id="x_submit">注册</button></div> -->
+        </form>
+    </div>
+
+</body>
+</html>

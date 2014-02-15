@@ -1,0 +1,552 @@
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtwOR-QMriVWze43KQzN5v1c]]></FromUserName>
+<CreateTime>1392458198</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#4]]></Content>
+<MsgId>5980562421657123967</MsgId>
+</xml>
+ERROR:root:({'telephone': None},)
+ERROR:root:response: <xml><ToUserName>oiZuKtwOR-QMriVWze43KQzN5v1c</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392458199</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>注册</Title><Description>注册参加活动</Description><Url>http://115.28.143.163/register/?wx_id=oiZuKtwOR-QMriVWze43KQzN5v1c</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtyKlft0Hq7NRz26FnEGwKwA]]></FromUserName>
+<CreateTime>1392458212</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[Uh]]></Content>
+<MsgId>5980562481786666113</MsgId>
+</xml>
+ERROR:root:response: <xml><ToUserName>oiZuKtyKlft0Hq7NRz26FnEGwKwA</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392458213</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 活动名</Title><Description>活动详情
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/party_template.html</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtyKlft0Hq7NRz26FnEGwKwA]]></FromUserName>
+<CreateTime>1392458224</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980562533326273667</MsgId>
+</xml>
+ERROR:root:({'telephone': u'18910769093'},)
+ERROR:root:response: <xml><ToUserName>oiZuKtyKlft0Hq7NRz26FnEGwKwA</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392458225</CreateTime><MsgType>text</MsgType><Content>活动已结束</Content></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtwOR-QMriVWze43KQzN5v1c]]></FromUserName>
+<CreateTime>1392458269</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980562726599801989</MsgId>
+</xml>
+ERROR:root:({'telephone': u'18600367746'},)
+ERROR:root:response: <xml><ToUserName>oiZuKtwOR-QMriVWze43KQzN5v1c</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392458270</CreateTime><MsgType>text</MsgType><Content>活动已结束</Content></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtwOR-QMriVWze43KQzN5v1c]]></FromUserName>
+<CreateTime>1392458286</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#4]]></Content>
+<MsgId>5980562799614246023</MsgId>
+</xml>
+ERROR:root:({'telephone': u'18600367746'},)
+ERROR:root:response: <xml><ToUserName>oiZuKtwOR-QMriVWze43KQzN5v1c</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392458287</CreateTime><MsgType>text</MsgType><Content>活动不存在</Content></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtwOR-QMriVWze43KQzN5v1c]]></FromUserName>
+<CreateTime>1392458291</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980562821089082505</MsgId>
+</xml>
+ERROR:root:({'telephone': u'18600367746'},)
+ERROR:root:response: <xml><ToUserName>oiZuKtwOR-QMriVWze43KQzN5v1c</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392458292</CreateTime><MsgType>text</MsgType><Content>谢谢参与</Content></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtwOR-QMriVWze43KQzN5v1c]]></FromUserName>
+<CreateTime>1392458828</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[H]]></Content>
+<MsgId>5980565127486520470</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtwOR-QMriVWze43KQzN5v1c</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392458829</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 活动名</Title><Description>活动详情
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/party_template.html</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtwOR-QMriVWze43KQzN5v1c]]></FromUserName>
+<CreateTime>1392459003</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[K]]></Content>
+<MsgId>5980565879105797271</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:tornado.application:Uncaught exception POST /weixin?signature=cc44d781ad324ea3ae2bb115164fe65b6e52f64e&timestamp=1392459004&nonce=1392368691 (101.226.64.213)
+HTTPRequest(protocol='http', host='115.28.143.163', method='POST', uri='/weixin?signature=cc44d781ad324ea3ae2bb115164fe65b6e52f64e&timestamp=1392459004&nonce=1392368691', version='HTTP/1.0', remote_ip='101.226.64.213', headers={'Content-Length': '274', 'Host': '115.28.143.163', 'Pragma': 'no-cache', 'Content-Type': 'text/xml', 'Connection': 'Keep-Alive', 'Accept': '*/*', 'User-Agent': 'Mozilla/4.0'})
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/tornado/web.py", line 1218, in _when_complete
+    callback()
+  File "/usr/local/lib/python2.7/dist-packages/tornado/web.py", line 1239, in _execute_method
+    self._when_complete(method(*self.path_args, **self.path_kwargs),
+  File "./test.py", line 48, in post
+    res = self.processor.processMessage(self.request.body)
+  File "/home/xh/weixin_test/weixin/wxProcess.py", line 76, in processMessage
+    return message.getReplyMessage('news', reply_message, party_info)
+  File "/home/xh/weixin_test/weixin/wxMessage.py", line 195, in getReplyMessage
+    i.text = '#' + party_info['id'] + ' ' + party_info['title']
+TypeError: cannot concatenate 'str' and 'long' objects
+ERROR:tornado.access:500 POST /weixin?signature=cc44d781ad324ea3ae2bb115164fe65b6e52f64e&timestamp=1392459004&nonce=1392368691 (101.226.64.213) 54.64ms
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtwOR-QMriVWze43KQzN5v1c]]></FromUserName>
+<CreateTime>1392459003</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[K]]></Content>
+<MsgId>5980565879105797271</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:tornado.application:Uncaught exception POST /weixin?signature=cb86693d2dd3a36b4ca1a677a96873fa17de9296&timestamp=1392459004&nonce=1392219295 (101.226.64.213)
+HTTPRequest(protocol='http', host='115.28.143.163', method='POST', uri='/weixin?signature=cb86693d2dd3a36b4ca1a677a96873fa17de9296&timestamp=1392459004&nonce=1392219295', version='HTTP/1.0', remote_ip='101.226.64.213', headers={'Content-Length': '274', 'Host': '115.28.143.163', 'Pragma': 'no-cache', 'Content-Type': 'text/xml', 'Connection': 'Keep-Alive', 'Accept': '*/*', 'User-Agent': 'Mozilla/4.0'})
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/tornado/web.py", line 1218, in _when_complete
+    callback()
+  File "/usr/local/lib/python2.7/dist-packages/tornado/web.py", line 1239, in _execute_method
+    self._when_complete(method(*self.path_args, **self.path_kwargs),
+  File "./test.py", line 48, in post
+    res = self.processor.processMessage(self.request.body)
+  File "/home/xh/weixin_test/weixin/wxProcess.py", line 76, in processMessage
+    return message.getReplyMessage('news', reply_message, party_info)
+  File "/home/xh/weixin_test/weixin/wxMessage.py", line 195, in getReplyMessage
+    i.text = '#' + party_info['id'] + ' ' + party_info['title']
+TypeError: cannot concatenate 'str' and 'long' objects
+ERROR:tornado.access:500 POST /weixin?signature=cb86693d2dd3a36b4ca1a677a96873fa17de9296&timestamp=1392459004&nonce=1392219295 (101.226.64.213) 40.01ms
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtwOR-QMriVWze43KQzN5v1c]]></FromUserName>
+<CreateTime>1392459003</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[K]]></Content>
+<MsgId>5980565879105797271</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:tornado.application:Uncaught exception POST /weixin?signature=efb15fb04864e5c73dabbfda040ca33260b65d30&timestamp=1392459014&nonce=1392053308 (101.226.64.213)
+HTTPRequest(protocol='http', host='115.28.143.163', method='POST', uri='/weixin?signature=efb15fb04864e5c73dabbfda040ca33260b65d30&timestamp=1392459014&nonce=1392053308', version='HTTP/1.0', remote_ip='101.226.64.213', headers={'Content-Length': '274', 'Host': '115.28.143.163', 'Pragma': 'no-cache', 'Content-Type': 'text/xml', 'Connection': 'Keep-Alive', 'Accept': '*/*', 'User-Agent': 'Mozilla/4.0'})
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/tornado/web.py", line 1218, in _when_complete
+    callback()
+  File "/usr/local/lib/python2.7/dist-packages/tornado/web.py", line 1239, in _execute_method
+    self._when_complete(method(*self.path_args, **self.path_kwargs),
+  File "./test.py", line 48, in post
+    res = self.processor.processMessage(self.request.body)
+  File "/home/xh/weixin_test/weixin/wxProcess.py", line 76, in processMessage
+    return message.getReplyMessage('news', reply_message, party_info)
+  File "/home/xh/weixin_test/weixin/wxMessage.py", line 195, in getReplyMessage
+    i.text = '#' + party_info['id'] + ' ' + party_info['title']
+TypeError: cannot concatenate 'str' and 'long' objects
+ERROR:tornado.access:500 POST /weixin?signature=efb15fb04864e5c73dabbfda040ca33260b65d30&timestamp=1392459014&nonce=1392053308 (101.226.64.213) 43.33ms
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtwOR-QMriVWze43KQzN5v1c]]></FromUserName>
+<CreateTime>1392459003</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[K]]></Content>
+<MsgId>5980565879105797271</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:tornado.application:Uncaught exception POST /weixin?signature=42aded73f92be6903a8aa17a4ddfd69447f0f06d&timestamp=1392459024&nonce=1392049822 (101.226.61.144)
+HTTPRequest(protocol='http', host='115.28.143.163', method='POST', uri='/weixin?signature=42aded73f92be6903a8aa17a4ddfd69447f0f06d&timestamp=1392459024&nonce=1392049822', version='HTTP/1.0', remote_ip='101.226.61.144', headers={'Content-Length': '274', 'Host': '115.28.143.163', 'Pragma': 'no-cache', 'Content-Type': 'text/xml', 'Connection': 'Keep-Alive', 'Accept': '*/*', 'User-Agent': 'Mozilla/4.0'})
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/tornado/web.py", line 1218, in _when_complete
+    callback()
+  File "/usr/local/lib/python2.7/dist-packages/tornado/web.py", line 1239, in _execute_method
+    self._when_complete(method(*self.path_args, **self.path_kwargs),
+  File "./test.py", line 48, in post
+    res = self.processor.processMessage(self.request.body)
+  File "/home/xh/weixin_test/weixin/wxProcess.py", line 76, in processMessage
+    return message.getReplyMessage('news', reply_message, party_info)
+  File "/home/xh/weixin_test/weixin/wxMessage.py", line 195, in getReplyMessage
+    i.text = '#' + party_info['id'] + ' ' + party_info['title']
+TypeError: cannot concatenate 'str' and 'long' objects
+ERROR:tornado.access:500 POST /weixin?signature=42aded73f92be6903a8aa17a4ddfd69447f0f06d&timestamp=1392459024&nonce=1392049822 (101.226.61.144) 44.12ms
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtwOR-QMriVWze43KQzN5v1c]]></FromUserName>
+<CreateTime>1392459041</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[I]]></Content>
+<MsgId>5980566042314554521</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtwOR-QMriVWze43KQzN5v1c</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392459042</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 第一个活动</Title><Description>这里是活动介绍
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/party_template.html</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtyKlft0Hq7NRz26FnEGwKwA]]></FromUserName>
+<CreateTime>1392459285</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[K]]></Content>
+<MsgId>5980567090286574747</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtyKlft0Hq7NRz26FnEGwKwA</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392459286</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 第一个活动</Title><Description>这里是活动介绍
+回复"#活动编号"参加活动</Description><Url>/1.html</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtyKlft0Hq7NRz26FnEGwKwA]]></FromUserName>
+<CreateTime>1392459420</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[/Ff]]></Content>
+<MsgId>5980567670107159708</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtyKlft0Hq7NRz26FnEGwKwA</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392459421</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 第一个活动</Title><Description>这里是活动介绍
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/1.html</Url></item></Articles></xml>
+WARNING:tornado.access:404 GET /80 (107.160.45.4) 1.33ms
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtyKlft0Hq7NRz26FnEGwKwA]]></FromUserName>
+<CreateTime>1392459707</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[丽娟]]></Content>
+<MsgId>5980568902762773661</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtyKlft0Hq7NRz26FnEGwKwA</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392459708</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 第一个活动</Title><Description>这里是活动介绍
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/1.html</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtyKlft0Hq7NRz26FnEGwKwA]]></FromUserName>
+<CreateTime>1392459730</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980569001547021470</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtyKlft0Hq7NRz26FnEGwKwA</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392459731</CreateTime><MsgType>text</MsgType><Content>谢谢参与</Content></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtyKlft0Hq7NRz26FnEGwKwA]]></FromUserName>
+<CreateTime>1392459739</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980569040201727136</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtyKlft0Hq7NRz26FnEGwKwA</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392459740</CreateTime><MsgType>text</MsgType><Content>谢谢参与</Content></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKt9GcAlhkvE4VoaHJnJUWXi8]]></FromUserName>
+<CreateTime>1392460056</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[哈哈]]></Content>
+<MsgId>5980570401706359972</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKt9GcAlhkvE4VoaHJnJUWXi8</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392460057</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 第一个活动</Title><Description>这里是活动介绍
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/1.html</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtz2SG24zJC_oDRj5_QWy8S0]]></FromUserName>
+<CreateTime>1392460147</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtz2SG24zJC_oDRj5_QWy8S0</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392460148</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 第一个活动</Title><Description>这里是活动介绍
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/1.html</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKt9GcAlhkvE4VoaHJnJUWXi8]]></FromUserName>
+<CreateTime>1392460167</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[哈哈]]></Content>
+<MsgId>5980570878447729829</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKt9GcAlhkvE4VoaHJnJUWXi8</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392460168</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 第一个活动</Title><Description>这里是活动介绍
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/1.html</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtz2SG24zJC_oDRj5_QWy8S0]]></FromUserName>
+<CreateTime>1392460193</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980570990116879526</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtz2SG24zJC_oDRj5_QWy8S0</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392460194</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>注册</Title><Description>注册参加活动</Description><Url>http://115.28.143.163/register/?wx_id=oiZuKtz2SG24zJC</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKt9GcAlhkvE4VoaHJnJUWXi8]]></FromUserName>
+<CreateTime>1392460215</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[哈哈]]></Content>
+<MsgId>5980571084606160039</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKt9GcAlhkvE4VoaHJnJUWXi8</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392460216</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 第一个活动</Title><Description>这里是活动介绍
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/1.html</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtz2SG24zJC_oDRj5_QWy8S0]]></FromUserName>
+<CreateTime>1392460219</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980571101786029224</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtz2SG24zJC_oDRj5_QWy8S0</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392460220</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>注册</Title><Description>注册参加活动</Description><Url>http://115.28.143.163/register/?wx_id=oiZuKtz2SG24zJC</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKt9GcAlhkvE4VoaHJnJUWXi8]]></FromUserName>
+<CreateTime>1392460244</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[哈哈]]></Content>
+<MsgId>5980571209160211625</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKt9GcAlhkvE4VoaHJnJUWXi8</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392460245</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 第一个活动</Title><Description>这里是活动介绍
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/1.html</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtz2SG24zJC_oDRj5_QWy8S0]]></FromUserName>
+<CreateTime>1392460259</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980571273584721066</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtz2SG24zJC_oDRj5_QWy8S0</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392460260</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>注册</Title><Description>注册参加活动</Description><Url>http://115.28.143.163/register/?wx_id=oiZuKtz2SG24zJC</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtyKlft0Hq7NRz26FnEGwKwA]]></FromUserName>
+<CreateTime>1392460359</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[丽娟]]></Content>
+<MsgId>5980571703081450668</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtyKlft0Hq7NRz26FnEGwKwA</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392460360</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 第一个活动</Title><Description>这里是活动介绍
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/1.html</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtyKlft0Hq7NRz26FnEGwKwA]]></FromUserName>
+<CreateTime>1392460374</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980571767505960109</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtyKlft0Hq7NRz26FnEGwKwA</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392460375</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>注册</Title><Description>注册参加活动</Description><Url>http://115.28.143.163/register/?wx_id=oiZuKtyKlft0Hq7NRz26FnEGwKwA</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtyKlft0Hq7NRz26FnEGwKwA]]></FromUserName>
+<CreateTime>1392460395</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980571857700273326</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtyKlft0Hq7NRz26FnEGwKwA</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392460396</CreateTime><MsgType>text</MsgType><Content>谢谢参与</Content></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtz2SG24zJC_oDRj5_QWy8S0]]></FromUserName>
+<CreateTime>1392460531</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980572441815825586</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtz2SG24zJC_oDRj5_QWy8S0</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392460532</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>注册</Title><Description>注册参加活动</Description><Url>http://115.28.143.163/register/?wx_id=oiZuKtz2SG24zJC_oDRj5_QWy8S0</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKt_Cn-spCl2pEBmWciZsr3Lo]]></FromUserName>
+<CreateTime>1392460545</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKt_Cn-spCl2pEBmWciZsr3Lo</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392460546</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 第一个活动</Title><Description>这里是活动介绍
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/1.html</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtz2SG24zJC_oDRj5_QWy8S0]]></FromUserName>
+<CreateTime>1392460567</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980572596434648243</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtz2SG24zJC_oDRj5_QWy8S0</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392460568</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>注册</Title><Description>注册参加活动</Description><Url>http://115.28.143.163/register/?wx_id=oiZuKtz2SG24zJC_oDRj5_QWy8S0</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKt_Cn-spCl2pEBmWciZsr3Lo]]></FromUserName>
+<CreateTime>1392460589</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980572690923928756</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKt_Cn-spCl2pEBmWciZsr3Lo</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392460590</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>注册</Title><Description>注册参加活动</Description><Url>http://115.28.143.163/register/?wx_id=oiZuKt_Cn-spCl2pEBmWciZsr3Lo</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKt_Cn-spCl2pEBmWciZsr3Lo]]></FromUserName>
+<CreateTime>1392460651</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980572957211901109</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKt_Cn-spCl2pEBmWciZsr3Lo</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392460652</CreateTime><MsgType>text</MsgType><Content>谢谢参与</Content></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKt_Cn-spCl2pEBmWciZsr3Lo]]></FromUserName>
+<CreateTime>1392460999</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[nn]]></Content>
+<MsgId>5980574451860520125</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKt_Cn-spCl2pEBmWciZsr3Lo</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392461000</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 第一个活动</Title><Description>这里是活动介绍
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/1.html</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKt_Cn-spCl2pEBmWciZsr3Lo]]></FromUserName>
+<CreateTime>1392461007</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980574486220258494</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKt_Cn-spCl2pEBmWciZsr3Lo</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392461008</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>注册</Title><Description>注册参加活动</Description><Url>http://115.28.143.163/register/?wx_id=oiZuKt_Cn-spCl2pEBmWciZsr3Lo</Url></item></Articles></xml>
+ERROR:tornado.application:Uncaught exception POST /register/ (118.207.157.102)
+HTTPRequest(protocol='http', host='115.28.143.163', method='POST', uri='/register/', version='HTTP/1.1', remote_ip='118.207.157.102', headers={'Origin': 'http://115.28.143.163', 'Content-Length': '86', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Host': '115.28.143.163', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (iPad; CPU OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A501 MicroMessenger/5.2', 'Connection': 'keep-alive', 'Referer': 'http://115.28.143.163/register/?wx_id=oiZuKt_Cn-spCl2pEBmWciZsr3Lo', 'Content-Type': 'application/x-www-form-urlencoded'})
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/tornado/web.py", line 1218, in _when_complete
+    callback()
+  File "/usr/local/lib/python2.7/dist-packages/tornado/web.py", line 1239, in _execute_method
+    self._when_complete(method(*self.path_args, **self.path_kwargs),
+  File "./test.py", line 62, in post
+    L.error('%s\t%s\t%s\t%s\n' % wx_id, username, password, telephone)
+TypeError: not enough arguments for format string
+ERROR:tornado.access:500 POST /register/ (118.207.157.102) 3.33ms
+WARNING:tornado.access:404 GET /80 (107.160.45.4) 0.59ms
+ERROR:tornado.application:Uncaught exception POST /register/ (118.207.157.102)
+HTTPRequest(protocol='http', host='115.28.143.163', method='POST', uri='/register/', version='HTTP/1.1', remote_ip='118.207.157.102', headers={'Origin': 'http://115.28.143.163', 'Content-Length': '86', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Host': '115.28.143.163', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (iPad; CPU OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A501 MicroMessenger/5.2', 'Connection': 'keep-alive', 'Referer': 'http://115.28.143.163/register/?wx_id=oiZuKt_Cn-spCl2pEBmWciZsr3Lo', 'Cache-Control': 'max-age=0', 'Content-Type': 'application/x-www-form-urlencoded'})
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/tornado/web.py", line 1218, in _when_complete
+    callback()
+  File "/usr/local/lib/python2.7/dist-packages/tornado/web.py", line 1239, in _execute_method
+    self._when_complete(method(*self.path_args, **self.path_kwargs),
+  File "./test.py", line 62, in post
+    L.error('%s\t%s\t%s\t%s\n' % (wx_id, username, password, telephone))
+NameError: global name 'username' is not defined
+ERROR:tornado.access:500 POST /register/ (118.207.157.102) 13.74ms
+ERROR:root:oiZuKt_Cn-spCl2pEBmWciZsr3Lo	mary	123456	15116999343
+
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKt_Cn-spCl2pEBmWciZsr3Lo]]></FromUserName>
+<CreateTime>1392461126</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980574997321366719</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKt_Cn-spCl2pEBmWciZsr3Lo</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392461127</CreateTime><MsgType>text</MsgType><Content>谢谢参与</Content></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtz2SG24zJC_oDRj5_QWy8S0]]></FromUserName>
+<CreateTime>1392461157</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[hh]]></Content>
+<MsgId>5980575130465352898</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtz2SG24zJC_oDRj5_QWy8S0</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392461158</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 第一个活动</Title><Description>这里是活动介绍
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/1.html</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtz2SG24zJC_oDRj5_QWy8S0]]></FromUserName>
+<CreateTime>1392461164</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980575160530123971</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtz2SG24zJC_oDRj5_QWy8S0</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392461165</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>注册</Title><Description>注册参加活动</Description><Url>http://115.28.143.163/register/?wx_id=oiZuKtz2SG24zJC_oDRj5_QWy8S0</Url></item></Articles></xml>
+ERROR:root:oiZuKtz2SG24zJC_oDRj5_QWy8S0	harvey	123456	12345678910
+
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtz2SG24zJC_oDRj5_QWy8S0]]></FromUserName>
+<CreateTime>1392461213</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980575370983521476</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtz2SG24zJC_oDRj5_QWy8S0</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392461214</CreateTime><MsgType>text</MsgType><Content>谢谢参与</Content></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtz2SG24zJC_oDRj5_QWy8S0]]></FromUserName>
+<CreateTime>1392461580</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[djv]]></Content>
+<MsgId>5980576947236519121</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtz2SG24zJC_oDRj5_QWy8S0</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392461581</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 第一个活动</Title><Description>这里是活动介绍
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/1.html</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtyKlft0Hq7NRz26FnEGwKwA]]></FromUserName>
+<CreateTime>1392461618</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[呵呵]]></Content>
+<MsgId>5980577110445276371</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtyKlft0Hq7NRz26FnEGwKwA</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392461619</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 第一个活动</Title><Description>这里是活动介绍
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/1.html</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtyKlft0Hq7NRz26FnEGwKwA]]></FromUserName>
+<CreateTime>1392461638</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980577196344622292</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtyKlft0Hq7NRz26FnEGwKwA</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392461639</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>注册</Title><Description>注册参加活动</Description><Url>http://115.28.143.163/register/?wx_id=oiZuKtyKlft0Hq7NRz26FnEGwKwA</Url></item></Articles></xml>
+ERROR:root:oiZuKtyKlft0Hq7NRz26FnEGwKwA	Han	123456	18910769093
+
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtyKlft0Hq7NRz26FnEGwKwA]]></FromUserName>
+<CreateTime>1392461671</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980577338078543064</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtyKlft0Hq7NRz26FnEGwKwA</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392461672</CreateTime><MsgType>text</MsgType><Content>谢谢参与</Content></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKt9GcAlhkvE4VoaHJnJUWXi8]]></FromUserName>
+<CreateTime>1392462261</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[哈哈]]></Content>
+<MsgId>5980579872109247727</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKt9GcAlhkvE4VoaHJnJUWXi8</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392462262</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 第一个活动</Title><Description>这里是活动介绍
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/1.html</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKtwOR-QMriVWze43KQzN5v1c]]></FromUserName>
+<CreateTime>1392462629</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[J]]></Content>
+<MsgId>5980581452657212659</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKtwOR-QMriVWze43KQzN5v1c</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392462630</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 第一个活动</Title><Description>这里是活动介绍
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/1.html</Url></item></Articles></xml>
+WARNING:tornado.access:404 GET /80 (107.160.45.4) 1.22ms
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKt9GcAlhkvE4VoaHJnJUWXi8]]></FromUserName>
+<CreateTime>1392468025</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[看到活动内容了]]></Content>
+<MsgId>5980604628300742185</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKt9GcAlhkvE4VoaHJnJUWXi8</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392468026</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 第一个活动</Title><Description>这里是活动介绍
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/1.html</Url></item></Articles></xml>
+WARNING:tornado.access:404 GET /80 (107.160.45.4) 1.21ms
+WARNING:tornado.access:405 CONNECT mx3.mail2000.com.tw:25 (111.248.115.55) 0.58ms
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKt969PC5oroXdMWRtF-Vze-U]]></FromUserName>
+<CreateTime>1392474847</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKt969PC5oroXdMWRtF-Vze-U</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392474848</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>#1 第一个活动</Title><Description>这里是活动介绍
+回复"#活动编号"参加活动</Description><Url>http://115.28.143.163/static/1.html</Url></item></Articles></xml>
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKt969PC5oroXdMWRtF-Vze-U]]></FromUserName>
+<CreateTime>1392474916</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980634224920379200</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKt969PC5oroXdMWRtF-Vze-U</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392474917</CreateTime><MsgType>news</MsgType><ArticleCount>1</ArticleCount><Articles><item><Title>注册</Title><Description>注册参加活动</Description><Url>http://115.28.143.163/register/?wx_id=oiZuKt969PC5oroXdMWRtF-Vze-U</Url></item></Articles></xml>
+ERROR:root:oiZuKt969PC5oroXdMWRtF-Vze-U	hh	123456	15812345896
+
+ERROR:root:request: <xml><ToUserName><![CDATA[gh_800b2ccc8cab]]></ToUserName>
+<FromUserName><![CDATA[oiZuKt969PC5oroXdMWRtF-Vze-U]]></FromUserName>
+<CreateTime>1392474957</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[#1]]></Content>
+<MsgId>5980634401014038339</MsgId>
+</xml>
+ERROR:root:{'url': u'/1.html', 'description': u'\u8fd9\u91cc\u662f\u6d3b\u52a8\u4ecb\u7ecd', 'cover': None, 'id': 1L, 'title': u'\u7b2c\u4e00\u4e2a\u6d3b\u52a8'}
+ERROR:root:response: <xml><ToUserName>oiZuKt969PC5oroXdMWRtF-Vze-U</ToUserName><FromUserName>gh_800b2ccc8cab</FromUserName><CreateTime>1392474958</CreateTime><MsgType>text</MsgType><Content>谢谢参与</Content></xml>

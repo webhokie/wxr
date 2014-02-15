@@ -1,0 +1,19 @@
+/* 清除浮动类 */
+.clearLeft { clear: left; }
+.clearRight { clear: right; }
+.clearBoth {clear: both; }
+
+/* 链接样式 */
+/* LVHA-order must be sufficed */
+a:link {}
+a:visited {}
+a:hover {}
+a:active {}
+
+blockquote {
+	border-left: 5px solid gray;
+	padding-left: 10px;
+	background-color: #dcdcdc;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>注册</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+	<link href="/static/base.css" rel="stylesheet">
+	<!-- Bootstrap -->
+	<link href="/static/css/bootstrap.css" rel="stylesheet">
+	<link href="/static/css/bootstrap-responsive.css" rel="stylesheet">
+	<script src="/static/js/jquery.js"></script>
+	<script src="/static/js/bootstrap.min.js"></script>
+	<script type="text/javascript">
+    $(document).ready(function() {
+        $("#x_submit").on("click", function() {
+            $username = $("#username");
+            $password = $("#password");
+            $telephone = $("#telephone");
+
+            if ($.trim($username.val()).length == 0) {
+                $("#x_local_errors").removeClass("x_display");
+                $("#x_local_errors").html("<h2>用户名为空</h2>")
+                return;
+            }
+            if ($.trim($telephone.val()).length == 0) {
+                $("#x_local_errors").removeClass("x_display");
+                $("#x_local_errors").html("<h2>手机号码为空</h2>")
+                return;
+            } else {
+                re = /^1[0-9]{10}$/
+                if (!re.test($.trim($telephone.val()))) {
+                    $("#x_local_errors").removeClass("x_display");
+                    $("#x_local_errors").html("<h2>手机号码不正确</h2>")
+                    return;
+                }
+            }
+            if ($.trim($password.val()).length == 0) {
+                $("#x_local_errors").removeClass("x_display");
+                $("#x_local_errors").html("<h2>密码为空</h2>")
+                return;
+            }
+
+            $("#x_register_form").submit();
+        });
+    });
+    </script>
+	<!--
+	<script type="text/javascript">
+		var winHeight;
+		var winWidth;
+
+		if (window.innerWidth)
+			winWidth = window.innerWidth;
+		else if ((document.body) && (document.body.clientWidth))
+			winWidth = document.body.clientWidth;
+
+		if (window.innerHeight)
+			winHeight = window.innerHeight;
+		else if ((document.body) && (document.body.clientHeight))
+			winWidth = document.body.clientHeight;
+
+		if (document.documentElement && document.documentElement.clientHeight &&
+			document.documentElement.clientWidth) {
+			winHeight = document.documentElement.clientHeight;
+			winHeight = document.documentElement.clientHeight;
+		}
+		window.onload = function() {
+			var obj = document.body.getElementsByTagName("img");
+			for (var i=0; i<obj.length; i++) {
+				var width = obj[i].width;
+				if (width > winWidth)
+					obj[i].width = winWidth;
+			}
+		}
+	</script>
+	-->
+    <style type="text/css">
+    .error_list {
+        font-weight: bold;
+        color: red;    
+    }
+    .form_control_wrapper {
+        font-size: larger;    
+    }
+
+    .form_control_wrapper div {
+        padding-top: 20px;    
+    }
+
+    .form_control_wrapper input {
+        width: 190px;
+        font-size: 20px;
+        height: 30px;
+        padding: 0px;
+    }
+
+    .x_btn {
+        width: 100px;    
+        height: 34px;
+        font-size: 20px;
+    }
+
+    .x_display {
+        display: none;    
+    }
+    #footer {
+        text-align: center;
+        padding-bottom: 1px;
+        font-size: 10px;
+        font-color: grey;
+    }
+    </style>
+</head>
+<body>
+    <div id="header">
+	    <h1>活动标题</h1> <hr />
+    </div>
+
+    <div id="content">
+        <h2>活动介绍</h2>
+        <p>将大量解放军阿里飞机撒到了附近来得及萨弗拉空间连接 三大类纠纷辣椒素的菲拉斯的房里睡觉阿德里克附近就 拉萨的减肥记录捡垃圾as的减肥啦连接第三类纠纷拉萨决定发 数量大减肥了 阿萨弗拉基刘嘉玲的撒娇发链接的撒飞机</p>
+        <h2>活动地址</h2>
+        <p>将大量解放军阿里飞机撒到了附近来得及萨弗拉空间连接 三大类纠纷辣椒素的菲拉斯的房里睡觉阿德里克附近就 拉萨的减肥记录捡垃圾as的减肥啦连接第三类纠纷拉萨决定发 数量大减肥了 阿萨弗拉基刘嘉玲的撒娇发链接的撒飞机</p>
+        <h2>活动规则</h2>
+        <p>将大量解放军阿里飞机撒到了附近来得及萨弗拉空间连接 三大类纠纷辣椒素的菲拉斯的房里睡觉阿德里克附近就 拉萨的减肥记录捡垃圾as的减肥啦连接第三类纠纷拉萨决定发 数量大减肥了 阿萨弗拉基刘嘉玲的撒娇发链接的撒飞机</p>
+    </div>
+
+    <div id="footer">
+        &copy; 2014
+    </div>
+</body>
+</html>
